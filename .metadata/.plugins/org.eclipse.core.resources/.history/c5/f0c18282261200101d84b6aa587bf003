@@ -1,0 +1,13 @@
+package com.ty;
+
+public class FetchRecords {
+
+	public static void main(String[] args) {
+		String url = "jdbc:postgresql://localhost:5432/college";
+		String user = "postgres";
+		String password = "root";
+		String driver = "org.postgresql.Driver";
+		
+		
+	}
+}

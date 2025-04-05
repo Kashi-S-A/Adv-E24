@@ -22,9 +22,6 @@ public class FetchRecords {
 			
 			String sql = "SELECT * FROM student";
 			
-//			boolean result = stm.execute(sql);
-//			System.out.println(result);//true bcz select query returns the data/ResultSet
-			
 			ResultSet rs = stm.executeQuery(sql);
 			
 			System.out.println("------------Students------------");

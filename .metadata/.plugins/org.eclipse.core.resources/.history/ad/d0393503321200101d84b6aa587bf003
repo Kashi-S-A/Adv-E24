@@ -19,14 +19,12 @@ public class Insert {
 			String query = "INSERT INTO student VALUES(?,?,?)";
 			
 			PreparedStatement pstm = con.prepareStatement(query);
-			pstm.setInt(1, 6);
-			pstm.setString(2, "Penga");
-			pstm.setLong(3, 6545678);
+			pstm.setInt(1, 5);
+			pstm.setString(2, "Manga");
+			pstm.setLong(3, 56789876);
 			
-			pstm.executeQuery();
-			
-//			boolean result = pstm.execute();
-//			System.out.println(result);//false bcz insert query does not return the data/the query cannot return ResultSet
+			boolean result = pstm.execute();
+			System.out.println(result);
 			
 			con.close();
 			

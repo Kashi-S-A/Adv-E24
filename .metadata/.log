@@ -405,3 +405,9 @@ Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: The request (id: 17
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2025-04-05 20:58:04.799
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-04-05 21:09:37.352
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-04-05 21:09:37.357
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

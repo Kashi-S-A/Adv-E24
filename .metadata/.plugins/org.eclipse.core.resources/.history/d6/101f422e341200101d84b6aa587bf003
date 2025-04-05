@@ -23,10 +23,10 @@ public class Insert {
 			pstm.setString(2, "Penga");
 			pstm.setLong(3, 6545678);
 			
-//			pstm.executeQuery();//throw exception after executing insert query bzc it does not return any result
+			pstm.executeQuery();
 			
-			boolean result = pstm.execute();
-			System.out.println(result);//false bcz insert query does not return the data/the query cannot return ResultSet
+//			boolean result = pstm.execute();
+//			System.out.println(result);//false bcz insert query does not return the data/the query cannot return ResultSet
 			
 			con.close();
 			

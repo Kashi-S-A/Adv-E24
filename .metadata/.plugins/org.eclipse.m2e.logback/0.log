@@ -217,3 +217,299 @@
 2025-04-05 20:58:04,794 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2025-04-05 20:58:04,798 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2025-04-05 20:58:04,800 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-05 21:09:37,351 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-05 21:09:37,354 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-05 21:09:37,356 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-05 21:09:37,357 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-06 09:39:19,167 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-07 19:33:21,874 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-07 19:34:17,897 [Worker-10: Creating project "ExecuteUpdate"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ty:ExecuteUpdate:0.0.1-SNAPSHOT @ C:\Users\asus\Desktop\EB-E24\ExecuteUpdate\pom.xml.
+2025-04-07 19:34:22,275 [Worker-10: Creating project "ExecuteUpdate"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ExecuteUpdate/src/main/java
+2025-04-07 19:34:22,309 [Worker-10: Creating project "ExecuteUpdate"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ExecuteUpdate/src/main/resources
+2025-04-07 19:34:22,312 [Worker-10: Creating project "ExecuteUpdate"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ExecuteUpdate/src/test/java
+2025-04-07 19:34:22,312 [Worker-10: Creating project "ExecuteUpdate"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ExecuteUpdate/src/test/resources
+2025-04-07 19:34:24,448 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:34:24,555 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:34:24,562 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:34:24,565 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:34:25,799 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:34:25,802 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:34:25,806 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:34:25,808 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:34:48,867 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ty:ExecuteUpdate:0.0.1-SNAPSHOT @ C:\Users\asus\Desktop\EB-E24\ExecuteUpdate\pom.xml.
+2025-04-07 19:34:48,954 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:34:48,962 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:34:48,965 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:34:48,969 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:34:50,081 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:34:50,090 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:34:50,094 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:34:50,096 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:36:39,194 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:36:39,197 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:36:39,202 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:36:39,205 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:36:42,712 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:36:42,716 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:36:42,721 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:36:42,726 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:36:48,939 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:36:48,945 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:36:48,949 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:36:48,954 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:37:34,757 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:37:34,763 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:37:34,770 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:37:34,775 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:38:05,316 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:38:05,321 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:38:05,326 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:38:05,328 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:38:45,887 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:38:45,889 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:38:45,894 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:38:45,897 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:39:40,072 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:39:40,075 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:39:40,080 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:39:40,083 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:39:53,302 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:39:53,306 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:39:53,309 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:39:53,312 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:40:57,271 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:40:57,275 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:40:57,278 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:40:57,303 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:42:18,339 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:42:18,366 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:42:18,382 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:42:18,385 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:43:05,123 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:43:05,135 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:43:05,142 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:43:05,144 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:43:23,100 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:43:23,103 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:43:23,110 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:43:23,113 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:43:27,819 [Worker-19: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-07 19:43:47,682 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:43:47,686 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:43:47,690 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:43:47,712 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:44:34,558 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:44:34,562 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:44:34,569 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:44:34,590 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:47:18,678 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:47:18,682 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:47:18,689 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:47:18,720 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:47:25,272 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:47:25,276 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:47:25,282 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:47:25,285 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:47:39,813 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:47:39,818 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:47:39,831 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:47:39,834 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:47:53,113 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:47:53,118 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:47:53,123 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:47:53,127 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:48:38,695 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:48:38,699 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:48:38,706 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:48:38,709 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:48:44,929 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:48:44,934 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:48:44,940 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:48:44,942 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:53:14,273 [Worker-25: Creating project "Close-Connection"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ty:Close-Connection:0.0.1-SNAPSHOT @ C:\Users\asus\Desktop\EB-E24\Close-Connection\pom.xml.
+2025-04-07 19:53:14,876 [Worker-25: Creating project "Close-Connection"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Close-Connection/src/main/java
+2025-04-07 19:53:14,876 [Worker-25: Creating project "Close-Connection"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Close-Connection/src/main/resources
+2025-04-07 19:53:14,878 [Worker-25: Creating project "Close-Connection"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Close-Connection/src/test/java
+2025-04-07 19:53:14,878 [Worker-25: Creating project "Close-Connection"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Close-Connection/src/test/resources
+2025-04-07 19:53:15,605 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:53:15,609 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:53:15,615 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:53:15,622 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:53:35,159 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ty:Close-Connection:0.0.1-SNAPSHOT @ C:\Users\asus\Desktop\EB-E24\Close-Connection\pom.xml.
+2025-04-07 19:53:35,265 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:53:35,268 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:53:35,275 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:53:35,277 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:53:36,445 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:53:36,447 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:53:36,450 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:53:36,452 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:53:51,636 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:53:51,642 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:53:51,647 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:53:51,650 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:53:56,265 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:53:56,268 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:53:56,274 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:53:56,276 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:54:08,869 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:54:08,871 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:54:08,874 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:54:08,876 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:54:15,580 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:54:15,582 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:54:15,584 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:54:15,585 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:54:38,833 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:54:38,835 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:54:38,839 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:54:38,841 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:54:48,101 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:54:48,106 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:54:48,110 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:54:48,113 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:55:04,667 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:55:04,669 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:55:04,673 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:55:04,676 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:55:14,954 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:55:14,958 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:55:14,961 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:55:14,963 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:55:45,516 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:55:45,520 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:55:45,522 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:55:45,524 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:56:01,580 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:56:01,583 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:56:01,587 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:56:01,589 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:56:03,271 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:56:03,277 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 19:56:03,283 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 19:56:03,284 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:00:01,196 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:00:01,201 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:00:01,204 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:00:01,207 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:00:46,183 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:00:46,188 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:00:46,193 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:00:46,195 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:01:49,982 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:01:49,985 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:01:49,989 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:01:49,992 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:04:07,320 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:04:07,322 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:04:07,326 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:04:07,327 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:08:28,455 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:08:28,458 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:08:28,461 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:08:28,464 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:10:34,524 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:10:34,528 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:10:34,533 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:10:34,535 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:10:41,728 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:10:41,731 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:10:41,734 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:10:41,737 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:11:07,389 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:11:07,394 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:11:07,399 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:11:07,421 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:11:20,712 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:11:20,715 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:11:20,720 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:11:20,722 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:17:30,338 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:17:30,343 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:17:30,347 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:17:30,350 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:17:42,406 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:17:42,408 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:17:42,411 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:17:42,414 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:17:58,189 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:17:58,192 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:17:58,194 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:17:58,196 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:18:49,081 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:18:49,084 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:18:49,087 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:18:49,089 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:19:06,021 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:19:06,025 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:19:06,029 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:19:06,032 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:19:23,898 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:19:23,903 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:19:23,906 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:19:23,908 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:23:08,005 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:23:08,008 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 20:23:08,013 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-07 20:23:08,025 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-07 21:01:45,877 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [605])
+2025-04-07 21:01:45,922 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2025-04-07 21:01:45,923 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2025-04-07 21:01:45,924 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2025-04-07 21:01:45,925 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2025-04-07 21:01:45,926 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2025-04-07 21:01:45,927 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2025-04-07 21:01:45,928 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2025-04-07 21:01:45,929 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2025-04-07 21:01:45,930 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2025-04-07 21:01:45,931 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2025-04-07 21:01:45,932 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2025-04-07 21:01:45,933 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2025-04-07 21:01:45,935 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2025-04-07 21:01:45,936 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2025-04-07 21:01:45,937 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2025-04-07 21:01:45,938 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2025-04-07 21:01:45,939 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2025-04-07 21:01:45,940 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2025-04-07 21:01:45,941 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2025-04-07 21:01:45,942 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2025-04-07 21:01:45,943 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2025-04-07 21:01:45,945 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2025-04-07 21:01:45,945 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2025-04-07 21:01:45,946 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2025-04-07 21:01:45,946 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2025-04-07 21:01:45,947 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2025-04-07 21:01:45,948 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2025-04-07 21:01:45,948 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2025-04-07 21:01:45,949 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2025-04-07 21:01:45,949 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2025-04-07 21:01:45,950 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2025-04-07 21:01:45,950 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2025-04-07 21:01:45,951 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2025-04-07 21:01:45,951 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2025-04-07 21:01:45,951 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2025-04-07 21:01:45,952 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2025-04-07 21:01:45,952 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2025-04-07 21:01:45,952 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2025-04-07 21:01:45,953 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2025-04-07 21:01:45,955 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [10])
+2025-04-07 21:01:45,963 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2025-04-07 21:01:45,964 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [917])
+2025-04-07 21:01:45,968 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2025-04-07 21:01:45,968 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [32])
+2025-04-07 21:01:45,974 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2025-04-07 21:01:45,974 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [30])
+2025-04-07 21:01:45,980 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asus\.p2\pool\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2025-04-07 21:01:46,002 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\asus\AppData\Local\Temp\m2e-archetypeGenerator1345843786700129020":
+2025-04-07 21:01:46,005 [Worker-49: Launching mavenrun-b5947915-7534-4dff-89f7-8cc3c1e00e93] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.5 -DgroupId=com.ty -DartifactId=FirstServletProject -Dversion=0.0.1-SNAPSHOT -Dpackage=com.ty.FirstServletProject -DoutputDirectory=C:\Users\asus\Desktop\EB-E24 -Dstyle.color=always -U archetype:generate
+2025-04-07 21:02:45,555 [Worker-50: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\asus\Desktop\EB-E24\FirstServletProject\pom.xml
+2025-04-07 21:02:50,401 [Worker-50: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ty:FirstServletProject:0.0.1-SNAPSHOT @ C:\Users\asus\Desktop\EB-E24\FirstServletProject\pom.xml.
+2025-04-07 21:02:55,453 [Worker-50: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstServletProject/src/main/java
+2025-04-07 21:02:55,455 [Worker-50: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstServletProject/src/test/java
+2025-04-07 21:03:00,815 [Worker-50: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 15 sec
+2025-04-07 21:05:01,893 [Worker-50: Launching mavenrun-833338d1-8a02-421d-8a6c-7a2156252198] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\asus\AppData\Local\Temp\m2e-archetypeGenerator4020939062897149981":
+2025-04-07 21:05:01,894 [Worker-50: Launching mavenrun-833338d1-8a02-421d-8a6c-7a2156252198] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.5 -DgroupId=com.ty -DartifactId=DemoProject -Dversion=0.0.1-SNAPSHOT -Dpackage=com.ty.DemoProject -DoutputDirectory=C:\Users\asus\Desktop\EB-E24 -Dstyle.color=always -U archetype:generate
+2025-04-07 21:05:59,312 [Worker-51: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\asus\Desktop\EB-E24\DemoProject\pom.xml
+2025-04-07 21:05:59,558 [Worker-51: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ty:DemoProject:0.0.1-SNAPSHOT @ C:\Users\asus\Desktop\EB-E24\DemoProject\pom.xml.
+2025-04-07 21:05:59,838 [Worker-51: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoProject/src/main/java
+2025-04-07 21:05:59,839 [Worker-51: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoProject/src/test/java

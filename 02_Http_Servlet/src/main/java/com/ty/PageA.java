@@ -11,12 +11,15 @@ import javax.servlet.http.HttpServletResponse;
 
 @WebServlet("/a")
 public class PageA extends HttpServlet{
-
+   
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		System.out.println("THis is PageA HttpServlet");
 		
 		PrintWriter pw = resp.getWriter();
+		pw.print("<html><body>");
 		pw.print("<h1>Hi this is HttpServlet</h1>");
+		pw.print("</body></html>");
 	}
+	 
 }

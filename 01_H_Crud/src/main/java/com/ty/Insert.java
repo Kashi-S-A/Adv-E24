@@ -13,9 +13,9 @@ public class Insert {
 		EntityTransaction et = em.getTransaction();
 
 		Employee e = new Employee();
-		e.setEid(101);
-		e.setName("Rahul");
-		e.setSalary(100000);
+		e.setEid(103);
+		e.setName("Laxmi");
+		e.setSalary(45000);
 
 		et.begin();
 		em.persist(e);// insert record

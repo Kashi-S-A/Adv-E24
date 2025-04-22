@@ -12,11 +12,11 @@ public class Fetch {
 		EntityManagerFactory emf = Persistence.createEntityManagerFactory("dev");
 		EntityManager em = emf.createEntityManager();
 		
-		Bank bank = em.find(Bank.class, 102);
+		Bank bank = em.find(Bank.class, 101);
 		
 		if (bank!=null) {
 			System.out.println(bank);
-			
+			System.out.println("====================");
 			List<Account> accounts = bank.getAccounts();
 			for (Account account : accounts) {
 				System.out.println(account);

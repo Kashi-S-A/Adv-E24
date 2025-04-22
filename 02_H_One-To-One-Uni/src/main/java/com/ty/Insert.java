@@ -13,20 +13,19 @@ public class Insert {
 		EntityTransaction et = em.getTransaction();
 
 		Car car = new Car();
-		car.setCid(101);
-		car.setName("BMW");
-		car.setPrice(400000);
+		car.setCid(102);
+		car.setName("Benz");
+		car.setPrice(500000);
 
 		Engine engine = new Engine();
-		engine.setEid(111);
+		engine.setEid(222);
 		engine.setFuel("Petrol");
-		engine.setCc(2000);
+		engine.setCc(1500);
 		
 		car.setEngine(engine);
 
 		et.begin();
 		em.persist(car);
-		em.persist(engine);
 		et.commit();
 		
 		System.out.println("Record saved");

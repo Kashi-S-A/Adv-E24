@@ -1,6 +1,8 @@
 package com.ty;
 
+import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
 import jakarta.persistence.Id;
 import jakarta.persistence.OneToOne;
 
@@ -14,7 +16,7 @@ public class Car {
 
 	private double price;
 
-	@OneToOne
+	@OneToOne(fetch = FetchType.LAZY,cascade = CascadeType.ALL)
 	private Engine engine;
 
 	@Override

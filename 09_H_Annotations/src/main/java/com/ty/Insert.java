@@ -1,9 +1,9 @@
 package com.ty;
 
-import jakarta.persistence.EntityManager;
-import jakarta.persistence.EntityManagerFactory;
-import jakarta.persistence.EntityTransaction;
-import jakarta.persistence.Persistence;
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.EntityTransaction;
+import javax.persistence.Persistence;
 
 public class Insert {
 
@@ -13,9 +13,9 @@ public class Insert {
 		EntityTransaction et = em.getTransaction();
 		
 		User user = new User();
-		user.setAddress("BLR");
-		user.setName("Kashi");
-		user.setPhone(876545);
+		user.setAddress("Mumbai");
+		user.setName("Allen");
+		user.setPhone(12345);
 		
 		et.begin();
 		em.merge(user);

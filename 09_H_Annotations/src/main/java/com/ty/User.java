@@ -2,28 +2,32 @@ package com.ty;
 
 import java.time.LocalDateTime;
 
+import javax.persistence.Cacheable;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.SequenceGenerator;
+import javax.persistence.Table;
+
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
-
 @Entity
 @Table(name = "user_info")
+@Cacheable
 public class User {
 
 	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY) 
+	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seq_generator")
+	@SequenceGenerator(name = "seq_generator", initialValue = 49, allocationSize = 10)
 	private int uid;
 
 	@Column(name = "user_name")
 	private String name;
 
-	@Column(unique = true, updatable = false)
+	@Column(updatable = false)
 	private long phone;
 
 	@Column(nullable = false)
@@ -35,6 +39,12 @@ public class User {
 
 	@UpdateTimestamp
 	private LocalDateTime updatedDate;
+
+	@Override
+	public String toString() {
+		return "User [uid=" + uid + ", name=" + name + ", phone=" + phone + ", address=" + address + ", createdDate="
+				+ createdDate + ", updatedDate=" + updatedDate + "]";
+	}
 
 	public long getPhone() {
 		return phone;

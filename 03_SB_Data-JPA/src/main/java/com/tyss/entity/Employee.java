@@ -5,6 +5,7 @@ import java.time.LocalDateTime;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
 
+import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -23,13 +24,29 @@ public class Employee {
 
 	private String email;
 
-	private Double price;
+	private Double salary;
 
 	@CreationTimestamp
+	@Column(updatable = false)
 	private LocalDateTime createdDate;
 
 	@UpdateTimestamp
 	private LocalDateTime updatedDate;
+
+	public Employee() {
+	}
+
+	public Employee(String name, String email, Double salary) {
+		this.name = name;
+		this.email = email;
+		this.salary = salary;
+	}
+
+	@Override
+	public String toString() {
+		return "Employee [eid=" + eid + ", name=" + name + ", email=" + email + ", salary=" + salary + ", createdDate="
+				+ createdDate + ", updatedDate=" + updatedDate + "]";
+	}
 
 	public Integer getEid() {
 		return eid;
@@ -55,12 +72,12 @@ public class Employee {
 		this.email = email;
 	}
 
-	public Double getPrice() {
-		return price;
+	public Double getSalary() {
+		return salary;
 	}
 
-	public void setPrice(Double price) {
-		this.price = price;
+	public void setSalary(Double salary) {
+		this.salary = salary;
 	}
 
 	public LocalDateTime getCreatedDate() {

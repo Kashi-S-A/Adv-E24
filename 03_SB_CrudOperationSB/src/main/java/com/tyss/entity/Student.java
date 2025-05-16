@@ -33,7 +33,7 @@ public class Student {
 	private String email;
 
 	@Column(nullable = false)
-	private String std;
+	private Integer std;
 
 	@CreationTimestamp
 	@Column(updatable = false, nullable = false)

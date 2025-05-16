@@ -1,5 +1,7 @@
 package com.tyss.controller;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -14,7 +16,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.tyss.entity.Student;
 import com.tyss.service.StudentService;
 
-
 @RestController
 public class StudentController {
 
@@ -26,29 +27,49 @@ public class StudentController {
 		ResponseEntity<Student> savedStudent = studentService.saveStudent(student);
 		return savedStudent;
 	}
-	
-//	@PutMapping("/update/{sid}")
-//	public String updateStudent(@PathVariable Integer sid, @RequestParam String name) {
-//		//TODO: process PUT request
-//		return entity;
-//	}
-	
+
+	@PutMapping("/update/{sid}")
+	public ResponseEntity<Student> updateStudent(@PathVariable Integer sid, @RequestParam String name) {
+		return studentService.updateStudentName(sid, name);
+	}
+
 	@GetMapping("/get")
 	public ResponseEntity<Student> getStudent(@RequestParam Integer sid) {
 		ResponseEntity<Student> re = studentService.getStudentById(sid);
 		return re;
 	}
-//	
-//	@GetMapping("/getall")
-//	public String getStudents() {
-//		//TODO: logic to fetch all the students
-//		return new String();
-//	}
-//	
-//	@DeleteMapping("/delete")
-//	public String deleteStudentById(@RequestParam Integer sid) {
-//		//TODO: delete student by id
-//		return "";
-//	}
+
+	@GetMapping("/getall")
+	public ResponseEntity<List<Student>> getStudents() {
+		ResponseEntity<List<Student>> re = studentService.getStudents();
+		return re;
+	}
+
+	@DeleteMapping("/delete")
+	public ResponseEntity<String> deleteStudentById(@RequestParam Integer sid) {
+		return studentService.deleteStudent(sid);
+	}
+	
+	@GetMapping("/page")
+	public ResponseEntity<List<Student>> getByPage(@RequestParam Integer pageNumber) {
+		ResponseEntity<List<Student>> students = studentService.getByPage(pageNumber);
+		return students;
+	}
+	
+	@GetMapping("/sort")
+	public ResponseEntity<List<Student>> sortStudents(@RequestParam String param) {
+		return studentService.sortStudents(param);
+	}
+	
+	@GetMapping("/filter")
+	public ResponseEntity<List<Student>> filterRecords(@RequestBody Student student) {
+		return studentService.filter(student);
+	}
+	
+	@GetMapping("/fetch")
+	public ResponseEntity<List<Student>> getByStd(@RequestParam Integer std) {
+		return studentService.getByStd(std);
+	}
+	
 	
 }

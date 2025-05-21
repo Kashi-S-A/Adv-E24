@@ -39,4 +39,8 @@ public class UserService {
 		return user.getContacts();
 	}
 
+	public User getByEmail(String email) {
+		return userRepo.findByEmail(email).get();
+	}
+
 }

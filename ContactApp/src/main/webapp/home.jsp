@@ -17,7 +17,7 @@
 	<div class="container">
 
 		<h1>Home Page</h1>
-
+		<h4>${msg}</h4>
 		<nav class="navbar navbar-expand-lg bg-body-tertiary">
 			<div class="container-fluid">
 				<a class="navbar-brand" href="#">Navbar</a>
@@ -30,13 +30,10 @@
 				<div class="collapse navbar-collapse" id="navbarNav">
 					<ul class="navbar-nav">
 						<li class="nav-item"><a class="nav-link active"
-							aria-current="page" href="#">Home</a></li>
+							aria-current="page" href="add">Add</a></li>
 						<li class="nav-item"><a class="nav-link" href="#">Features</a>
 						</li>
 						<li class="nav-item"><a class="nav-link" href="#">Pricing</a>
-						</li>
-						<li class="nav-item"><a class="nav-link disabled"
-							aria-disabled="true">Disabled</a></li>
 					</ul>
 				</div>
 			</div>
@@ -51,6 +48,8 @@
 					<th scope="col">Name</th>
 					<th scope="col">Contact</th>
 					<th scope="col">AdharNo</th>
+					<th scope="col">Edit</th>
+					<th scope="col">delete</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -62,11 +61,12 @@
 				for (Contact contact : contacts) {
 				%>
 				<tr>
-					<th scope="row"><%=contact.getCid()%></th>
-					<th><%=contact.getName()%></th>
-					<th><%=contact.getPhone()%></th>
-					<th><%=contact.getAdharNo()%></th>
-
+					<td scope="row"><%=contact.getCid()%></td>
+					<td><%=contact.getName()%></td>
+					<td><%=contact.getPhone()%></td>
+					<td><%=contact.getAdharNo()%></td>
+					<td><a href="edit?cid=<%=contact.getCid()%>">Edit</a></td>
+					<td><a href="delete?cid=<%=contact.getCid()%>">Delete</a></td>
 				</tr>
 				<%
 				}
@@ -74,8 +74,9 @@
 
 			</tbody>
 		</table>
+		<a href="logout">Logout</a>
 	</div>
-
+	
 	<script
 		src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"
 		integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO"

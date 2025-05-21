@@ -15,11 +15,13 @@ import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 import lombok.Getter;
 import lombok.Setter;
+import lombok.ToString;
 
 @Entity
 @Table(name = "contact_info")
 @Getter
 @Setter
+@ToString
 public class Contact {
 
 	@Id
@@ -28,6 +30,7 @@ public class Contact {
 
 	private String name;
 
+	@Column(unique = true)
 	private Long phone;
 
 	@Column(nullable = false, unique = true)

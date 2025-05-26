@@ -6,6 +6,7 @@ import java.util.List;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.tyss.counsellorapp.enums.Status;
 
 import jakarta.persistence.Column;
@@ -41,12 +42,14 @@ public class Counsellor {
 	@Column(unique = true)
 	private String email;
 
+	@JsonIgnore
 	private String password;
 
 	@Enumerated(EnumType.STRING)
 	private Status status = Status.ACTIVE;
 
 	@OneToMany(mappedBy = "counsellor")
+	@JsonIgnore
 	private List<Enquiry> enquiries;
 
 	@CreationTimestamp

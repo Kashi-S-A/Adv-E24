@@ -5,6 +5,7 @@ import java.time.LocalDate;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.tyss.counsellorapp.enums.ClassMode;
 import com.tyss.counsellorapp.enums.Course;
 
@@ -55,6 +56,7 @@ public class Enquiry {
 
 	@ManyToOne
 	@JoinColumn(name = "counsellor_id")
+	@JsonIgnore
 	private Counsellor counsellor;
 
 	@CreationTimestamp
